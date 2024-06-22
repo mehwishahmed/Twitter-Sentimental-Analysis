@@ -1,10 +1,10 @@
-Project Goal:
+## Project Goal:
 
 The primary goal of the Twitter Sentiment Analysis project is to develop a robust and accurate system that can automatically analyze the sentiment (positive, negative, neutral) of tweets containing specific keywords or hashtags. This will be achieved by leveraging state-of-the-art pre-trained transformer models to process and classify the sentiment of tweets effectively.
 
 
 
-Project Scope/Objectives:
+## Project Scope/Objectives:
 
 Data Collection and Preprocessing:
 Acquire a dataset of tweets containing specific keywords or hashtags.
@@ -28,7 +28,7 @@ Implement the deployment, making the system accessible for analyzing new tweets 
 
 
 
-Deliverables:
+## Deliverables:
 
 Dataset: A cleaned, tokenized, and labeled dataset of tweets.
 
